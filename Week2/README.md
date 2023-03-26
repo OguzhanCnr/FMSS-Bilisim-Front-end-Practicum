@@ -1,1 +1,1 @@
-<img src='https://github.com/OguzhanCnr/FMSS-Bilisim-Front-end-Practicum/blob/main/Week2/src/images/week2.png' width='30%'>
+<img src='https://github.com/OguzhanCnr/FMSS-Bilisim-Front-end-Practicum/blob/main/Week2/src/images/week2.png' width='60%'>
