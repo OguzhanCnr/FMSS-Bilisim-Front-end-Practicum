@@ -16,3 +16,5 @@ Usage
 ---
 
 `npm start`
+
+<img src='https://github.com/OguzhanCnr/FMSS-Bilisim-Front-end-Practicum/blob/main/Week3/images/week3-test.jpg' width='50%'>
