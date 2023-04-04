@@ -1,3 +1,6 @@
+
+<img src='https://github.com/OguzhanCnr/FMSS-Bilisim-Front-end-Practicum/blob/main/Week3/weather/images/week3-weather.jpg' width='60%'>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
