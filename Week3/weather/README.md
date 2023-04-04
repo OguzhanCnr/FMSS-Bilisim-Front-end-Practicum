@@ -1,5 +1,5 @@
 
-<img src='https://github.com/OguzhanCnr/FMSS-Bilisim-Front-end-Practicum/blob/main/Week3/weather/images/week3-weather.jpg' width='60%'>
+<img src='https://github.com/OguzhanCnr/FMSS-Bilisim-Front-end-Practicum/blob/main/Week3/weather/images/week3-weather.jpg' width='100%'>
 
 # Getting Started with Create React App
 
