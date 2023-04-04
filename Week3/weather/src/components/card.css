@@ -1,0 +1,21 @@
+.weatherCards{
+    display: grid;
+    text-align: center;
+    border-radius: 10px;
+    width: 15%;
+  }
+  
+.activeCards{
+    border: 2px solid rgb(196, 187, 187);
+    background-color:  rgb(196, 187, 187);
+  }
+.weatherImage{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.weatherValue{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
