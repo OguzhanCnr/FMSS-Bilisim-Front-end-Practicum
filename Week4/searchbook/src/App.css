@@ -1,0 +1,54 @@
+/*Home Page*/
+.WebApp {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+/*Header*/
+.WebApp .header {
+  min-height: 30vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  background-color: red;
+  justify-content: center;
+}
+.WebApp .header-image {
+  position: relative;
+  margin: 0 auto;
+  padding: 3em 1em;
+  color: #fff;
+  text-align: center;
+  background: url(../public/images/bgheader.jpg) no-repeat center center;
+  background-size: cover;
+} 
+.WebApp .header .headerContent {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.WebApp .header .headerContent .searchInput{
+ width: 30%;
+margin-right: 1%; 
+}
+.WebApp .header .headerContent .searchButton{
+  border-radius: 5px;
+ }
+
+/*Footer*/
+.WebApp .footer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  background-color: white;
+  justify-content: center;
+  margin-top: auto;
+}
